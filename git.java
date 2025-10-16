@@ -34,9 +34,10 @@ git push- push the changes from local to remote repo
                                      git push -u origin >branch name>
 
 git log- to check the history
-                                    
-.
-                                     
+
+
+                                     GitOps:
+                                     Uses Git as a Single Source of Turth to deliver appications and infrastructer
                                      
                                           
 _
