@@ -27,3 +27,9 @@ git push- push the changes from local to remote repo
                                      git push -u origin >branch name>
 
 git log- to check the history
+
+<git log>
+how To Clone The Repo from Github to Local
+
+<git clone https/ssl repo url>
+
