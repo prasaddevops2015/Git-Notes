@@ -29,8 +29,9 @@ git push- push the changes from local to remote repo
 
 git log- to check the history
 
-<git log>
+                                     <git log>
+  
 how To Clone The Repo from Github to Local
 
-<git clone https/ssl repo url>
+                                      <git clone <Repo URL>
 
