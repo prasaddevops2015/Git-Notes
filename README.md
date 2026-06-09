@@ -1,4 +1,14 @@
-# Git and Github:
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/70773901-260d-48a0-929d-b435da72c0a3" /># Git and Github:
+
+# Git Introduction:
+
+-- Git is an widely used and open source platform and it was developed by the Linus torvalds in the year 2006 for managing the linux kernel. It's an distributted version control system used to track changes and manage the source code during the software development.  It helps developers collaborate, manage different versions of code, and roll back to previous states if needed.
+
+-- Allows multiple developers can work together and merge changes easily.
+-- Revert to previous versions whenever needed.
+-- Develop features seperately and merge them safely.
+
+
 
 # Create a username and Email:
 
@@ -32,9 +42,10 @@ $git config --global user.email "email"
 
 # git log- to check the history
 
-                                     <git log>
+                                    # <git log>
   
 # How To Clone The Repo from Github to Local
 
-                                      <git clone <Repo URL>
+                                      # <git clone <Repo URL>
+
 
