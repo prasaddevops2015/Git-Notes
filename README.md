@@ -1,4 +1,4 @@
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/70773901-260d-48a0-929d-b435da72c0a3" /># Git and Github:
+# Git and Github:
 
 # Git Introduction:
 
@@ -8,6 +8,7 @@
 -- Revert to previous versions whenever needed.
 -- Develop features seperately and merge them safely.
 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/70773901-260d-48a0-929d-b435da72c0a3" />
 
 
 # Create a username and Email:
