@@ -2,7 +2,7 @@
 
 # Git Introduction:
 
--- Git is an widely used and open source platform and it was developed by the Linus torvalds in the year 2006 for managing the linux kernel. It's an distributted version control system used to track changes and manage the source code during the software development.  It helps developers collaborate, manage different versions of code, and roll back to previous states if needed.
+-- Git is an widely used and open source platform and it was developed by the Linus torvalds in the year 2005 for managing the linux kernel. It's an distributed version control system used to track changes and manage the source code during the software development.  It helps developers collaborate, manage different versions of code, and roll back to previous states if needed.
 
 -- Allows multiple developers can work together and merge changes easily.
 -- Revert to previous versions whenever needed.
