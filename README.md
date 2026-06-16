@@ -4,11 +4,15 @@
 
 -- Git is an widely used and open source platform and it was developed by the Linus torvalds in the year 2005 for managing the linux kernel. It's an distributed version control system used to track changes and manage the source code during the software development.  It helps developers collaborate, manage different versions of code, and roll back to previous states if needed.
 
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/70773901-260d-48a0-929d-b435da72c0a3" />
+
 -- Allows multiple developers can work together and merge changes easily.
 -- Revert to previous versions whenever needed.
 -- Develop features seperately and merge them safely.
 
-<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/70773901-260d-48a0-929d-b435da72c0a3" />
+<img width="800" height="400" alt="image" src="https://github.com/user-attachments/assets/9d925b60-99c1-421c-8afc-cfaa9d7ba694" />
+
+
 
 
 # Create a username and Email:
@@ -16,6 +20,12 @@
 $git config --global user.name "name"
 
 $git config --global user.email "email"
+
+What is the Init:
+
+-- Init is a (Repo respository storage space where your project files and their history are kept. There are 2 types of repositories in Git:
+* Local Repository: A copy of the project on your local machine.
+* Remote Repository: A version of the project hosted on a server, often on platforms like GitHub, GitLab, or Bitbucket.
 
 # Commands:
 
